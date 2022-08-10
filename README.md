@@ -7,9 +7,10 @@ I've been learning to code for 7 years now. I'm also still a student studying IT
 - 🌍  I'm based in Antwerps Belgium
 - ✉️  You can contact me at [julestorfs@amps.be](mailto:julestorfs@amps.be)
 - 🤝  I'm open to collaborating on new and unique projects
-  <a href="https://www.github.com/pippeloo" target="_blank" rel="noreferrer">
+
+<a href="https://www.github.com/pippeloo" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/github/followers/pippeloo?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
-  </a>
+</a>
 
 ### Skills
 
@@ -37,24 +38,18 @@ I've been learning to code for 7 years now. I'm also still a student studying IT
 ### Socials
 
 <p align="left">
-
-<a href="https://discord.com/users/pippeloo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-
-<a href="https://www.facebook.com/torfs.jules" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
-
-<a href="https://www.github.com/pippeloo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-
-<a href="http://www.instagram.com/jules.torfs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-
-<a href="https://www.stackoverflow.com/users/19258127" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
-
-<a href="https://www.twitter.com/TorfsJules" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-
-<a href="https://www.youtube.com/c/UCSUAQA3j_t-wbZgUCWfLivA" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
-
-<a href="https://www.twitch.tv/pippel00" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a>
-
+  <a href="https://discord.com/users/pippeloo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+  <a href="https://www.facebook.com/torfs.jules" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
+  <a href="https://www.github.com/pippeloo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+  <a href="http://www.instagram.com/jules.torfs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+  <a href="https://www.stackoverflow.com/users/19258127" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
+  <a href="https://www.twitter.com/TorfsJules" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+  <a href="https://www.youtube.com/c/UCSUAQA3j_t-wbZgUCWfLivA" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
+  <a href="https://www.twitch.tv/pippel00" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a>
 </p>
+
 ### Badges
+
 <b>My GitHub Stats</b>
+
 <a href="http://www.github.com/pippeloo"><img src="https://github-readme-stats.vercel.app/api?username=pippeloo&show_icons=true&hide=issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="pippeloo's GitHub stats" /></a>
