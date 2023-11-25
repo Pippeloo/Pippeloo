@@ -1,11 +1,11 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jules Torfs
 
-## Student  Tech-Stack Engineer
+## Tech-Stack Engineer
 
 I've been learning to code for 8 years now. I'm also still a student studying Applied Computer Science at Thomas More Geel. Coding has become a part of my life, it's more like a hobby for me.
 
 - 🌍  I'm based in Antwerps Belgium
-- ✉️  You can contact me at [julestorfs@amps.be](mailto:julestorfs@amps.be)
+- ✉️  You can contact me at [julestorfs@amps.be](mailto:jules@amps.be)
 - 🤝  I'm open to collaborating on new and unique projects
 
 <a href="https://www.github.com/pippeloo" target="_blank" rel="noreferrer">
