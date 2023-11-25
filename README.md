@@ -5,7 +5,7 @@
 I've been learning to code for 8 years now. I'm also still a student studying Applied Computer Science at Thomas More Geel. Coding has become a part of my life, it's more like a hobby for me.
 
 - 🌍  I'm based in Antwerps Belgium
-- ✉️  You can contact me at [julestorfs@amps.be](mailto:jules@amps.be)
+- ✉️  You can contact me at [jules@amps.be](mailto:jules@amps.be)
 - 🤝  I'm open to collaborating on new and unique projects
 
 <a href="https://www.github.com/pippeloo" target="_blank" rel="noreferrer">
