@@ -1,6 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jules Torfs
 
-## Student Full Stack Developer
+## Student  Tech-Stack Engineer
 
 I've been learning to code for 8 years now. I'm also still a student studying Applied Computer Science at Thomas More Geel. Coding has become a part of my life, it's more like a hobby for me.
 
