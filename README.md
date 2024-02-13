@@ -2,7 +2,7 @@
 
 ## Tech-Stack Engineer
 
-I've been learning to code for 8 years now. I'm also still a student studying Applied Computer Science at Thomas More Geel. Coding has become a part of my life, it's more like a hobby for me.
+I've been learning to code for 9 years now. I'm also still a student studying Applied Computer Science at Thomas More Geel. Coding has become a part of my life, it's more like a hobby for me.
 
 - 🌍  I'm based in Antwerps Belgium
 - ✉️  You can contact me at [jules@amps.be](mailto:jules@amps.be)
